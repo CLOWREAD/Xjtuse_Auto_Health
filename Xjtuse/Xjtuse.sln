@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xjtuse", "Xjtuse\Xjtuse.csproj", "{F493FD61-6FD0-48DA-8259-ED36AC13596D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F493FD61-6FD0-48DA-8259-ED36AC13596D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F493FD61-6FD0-48DA-8259-ED36AC13596D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F493FD61-6FD0-48DA-8259-ED36AC13596D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F493FD61-6FD0-48DA-8259-ED36AC13596D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BF7D5D3-C1F9-47A6-AF1C-9D591033424C}
+	EndGlobalSection
+EndGlobal
